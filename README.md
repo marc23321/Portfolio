@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of Data Projects 
+Portfolio of Projects and Resume
